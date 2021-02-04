@@ -6,3 +6,4 @@
 第一部分（机器学习基石）在这里：[机器学习基石（笔记+作业代码）](https://github.com/Chillstepp/Machine-Learning-Foundations)
 
  - CH1：Linear-SVM.md
+ - CH2：Dual Support Vector Machine
