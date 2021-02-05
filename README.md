@@ -7,3 +7,4 @@
 
  - CH1：Linear-SVM.md
  - CH2：Dual Support Vector Machine
+ - CH3：Kernel-Support-Vector-Machine
