@@ -10,3 +10,4 @@
  - CH3：Kernel-Support-Vector-Machine
  - CH4：Soft-Margin Support Vector Machine
  - Quiz 1 ：SVM
+ - CH5：Kernel-Logistic-Regression
