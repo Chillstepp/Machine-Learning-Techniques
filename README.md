@@ -12,3 +12,4 @@
  - Quiz 1 ：SVM
  - CH5：Kernel-Logistic-Regression
  - CH6：Support-Vector-Regression
+ - CH7：Blending and Bagging
