@@ -14,3 +14,4 @@
  - CH6：Support-Vector-Regression
  - CH7：Blending and Bagging
  - CH8：CH8：Adaptive Boosting
+ - CH9：Decision-Tree
