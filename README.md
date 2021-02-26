@@ -16,3 +16,4 @@
  - CH8：CH8：Adaptive Boosting
  - CH9：Decision-Tree
  - CH10：Random Forest 
+ - CH11：Gradient Boosted Decision Tree
