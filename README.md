@@ -17,3 +17,4 @@
  - CH9：Decision-Tree
  - CH10：Random Forest 
  - CH11：Gradient Boosted Decision Tree
+ - CH12：Neural-Network
