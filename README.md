@@ -20,3 +20,4 @@
  - CH12：Neural-Network
  - CH13：Deep-Learning
  - CH14：Radial-Basis-Function-Network
+ - CH15：Matrix-Factorization
