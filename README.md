@@ -9,7 +9,7 @@
  - CH2：Dual Support Vector Machine
  - CH3：Kernel-Support-Vector-Machine
  - CH4：Soft-Margin Support Vector Machine
- - Quiz 1 ：SVM
+ - **Quiz 1 ：SVM**
  - CH5：Kernel-Logistic-Regression
  - CH6：Support-Vector-Regression
  - CH7：Blending and Bagging
